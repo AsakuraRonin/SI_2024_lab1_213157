@@ -1,0 +1,33 @@
+commit 54ddb1e62e6a7b07f5c073d6478fa64c9b2bd808 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: AsakuraRonin <ivonmircev@gamil.com>
+Date:   Sun Apr 14 20:05:41 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit bb8681da1222b22cb0ff1a2b88f0b253bdcbf5ed
+Author: AsakuraRonin <ivonmircev@gamil.com>
+Date:   Sun Apr 14 19:55:22 2024 +0200
+
+     Fix wrong condition in makeBigStringFrom
+
+commit d606e7fce17af12c080e7fd12fc134bbd19e5d11 (origin/bug1, bug1)
+Author: AsakuraRonin <ivonmircev@gamil.com>
+Date:   Sun Apr 14 19:58:10 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 7bb2c77c142aedbdca13083a0c4b8886f2a609d5
+Author: AsakuraRonin <ivonmircev@gamil.com>
+Date:   Sun Apr 14 19:53:41 2024 +0200
+
+     Fix wrong condition in filterOddLengthStrings
+
+commit ee711ba86ca11e7529bcc4de38317ea720377002
+Author: AsakuraRonin <ivonmircev@gamil.com>
+Date:   Sun Apr 14 19:51:28 2024 +0200
+
+    Add starter code
+
+commit bd6502136d6ffab7effc4fda745a8e695ad53ebe
+Author: AsakuraRonin <ivonmircev@gamil.com>
+Date:   Sun Apr 14 19:50:33 2024 +0200
